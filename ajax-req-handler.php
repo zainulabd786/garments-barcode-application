@@ -949,9 +949,9 @@
 		   				if(is_connected() && !empty($sms_status) && !empty($num_sms)){
 		   					if(!empty($sms_content) && !empty($customer_id)){
 								if($conn->query("UPDATE settings SET value=value-'$sms_count' WHERE id='3' AND name='number_of_sms'") == false) throw new Exception($conn->error);
-			   					$parampro['uname'] = "zainulabd786";
-								$parampro['password'] = "A.730/4914*011";
-								$parampro['sender'] = "SAFSHN";
+			   					$parampro['uname'] = "XXXXXX";
+								$parampro['password'] = "XXXXXX";
+								$parampro['sender'] = "XXXXXXS";
 								$parampro['receiver'] = $customer_id;     
 								$parampro['route'] = "TA";
 								$parampro['msgtype'] = "1";
