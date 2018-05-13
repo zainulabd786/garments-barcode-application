@@ -1,0 +1,343 @@
+[05-Feb-2018 15:31:20 Europe/Berlin] PHP Notice:  Undefined index: array in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 943
+[05-Feb-2018 15:31:20 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 943
+[05-Feb-2018 15:32:41 Europe/Berlin] PHP Notice:  Undefined index: array in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 943
+[05-Feb-2018 15:32:41 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 943
+[05-Feb-2018 15:33:22 Europe/Berlin] PHP Notice:  Undefined index: array in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 943
+[05-Feb-2018 15:33:22 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 943
+[05-Feb-2018 15:35:16 Europe/Berlin] PHP Notice:  Undefined variable: array in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 944
+[06-Feb-2018 08:22:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2005
+[06-Feb-2018 08:23:16 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2037
+[06-Feb-2018 08:23:16 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2037
+[06-Feb-2018 08:23:16 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2037
+[06-Feb-2018 14:29:22 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2040
+[06-Feb-2018 14:29:22 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2043
+[06-Feb-2018 14:29:22 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2040
+[06-Feb-2018 14:33:35 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2041
+[06-Feb-2018 14:33:35 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2044
+[06-Feb-2018 14:33:35 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2041
+[06-Feb-2018 14:34:34 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2042
+[06-Feb-2018 14:34:34 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2045
+[06-Feb-2018 14:34:34 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2042
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined index: customer_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2007
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined index: customer_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2007
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined index: customer_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2007
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2043
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined index: customer_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2007
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2046
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined index: customer_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2007
+[06-Feb-2018 14:36:35 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2043
+[06-Feb-2018 14:42:47 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2030
+[06-Feb-2018 14:42:47 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2033
+[06-Feb-2018 14:42:47 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2030
+[06-Feb-2018 15:32:06 Europe/Berlin] PHP Notice:  Undefined index: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2085
+[06-Feb-2018 15:33:32 Europe/Berlin] PHP Notice:  Undefined index: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2085
+[06-Feb-2018 15:33:32 Europe/Berlin] PHP Notice:  Undefined index: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2085
+[06-Feb-2018 16:48:14 Europe/Berlin] PHP Notice:  Undefined index: key in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 21
+[06-Feb-2018 16:49:32 Europe/Berlin] PHP Notice:  Undefined index: sendCid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 297
+[06-Feb-2018 16:50:07 Europe/Berlin] PHP Notice:  Undefined index: sendCid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 297
+[06-Feb-2018 16:50:11 Europe/Berlin] PHP Notice:  Undefined index: sendCid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 297
+[07-Feb-2018 06:50:25 Europe/Berlin] PHP Notice:  Undefined variable: bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 379
+[07-Feb-2018 06:50:25 Europe/Berlin] PHP Notice:  Undefined variable: bal in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 397
+[07-Feb-2018 06:50:25 Europe/Berlin] PHP Notice:  Undefined variable: bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 379
+[07-Feb-2018 06:50:25 Europe/Berlin] PHP Notice:  Undefined variable: bal in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 397
+[07-Feb-2018 06:51:36 Europe/Berlin] PHP Notice:  Undefined variable: bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 379
+[07-Feb-2018 06:51:36 Europe/Berlin] PHP Notice:  Undefined variable: bal in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 399
+[07-Feb-2018 06:51:36 Europe/Berlin] PHP Notice:  Undefined variable: bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 379
+[07-Feb-2018 06:51:36 Europe/Berlin] PHP Notice:  Undefined variable: bal in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 399
+[07-Feb-2018 09:42:04 Europe/Berlin] PHP Notice:  Undefined index: cname in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2051
+[07-Feb-2018 09:42:04 Europe/Berlin] PHP Notice:  Undefined index: cnum in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2052
+[07-Feb-2018 09:42:04 Europe/Berlin] PHP Notice:  Undefined offset: 1 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2057
+[07-Feb-2018 09:42:04 Europe/Berlin] PHP Notice:  Undefined offset: 2 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2058
+[07-Feb-2018 09:42:04 Europe/Berlin] PHP Notice:  Undefined offset: 3 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2059
+[07-Feb-2018 09:42:04 Europe/Berlin] PHP Notice:  Undefined offset: 4 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2060
+[07-Feb-2018 09:42:43 Europe/Berlin] PHP Notice:  Undefined offset: 1 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2055
+[07-Feb-2018 09:42:43 Europe/Berlin] PHP Notice:  Undefined offset: 2 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2056
+[07-Feb-2018 09:42:43 Europe/Berlin] PHP Notice:  Undefined offset: 3 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2057
+[07-Feb-2018 09:42:43 Europe/Berlin] PHP Notice:  Undefined offset: 4 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2058
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 1 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1106
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 2 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1106
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 3 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1106
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 4 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1106
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 5 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1106
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 3 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1108
+[09-Mar-2018 10:36:17 Europe/Berlin] PHP Notice:  Undefined offset: 2 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1108
+[11-Mar-2018 12:29:39 Europe/Berlin] PHP Notice:  Undefined variable: total in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2034
+[11-Mar-2018 12:29:39 Europe/Berlin] PHP Notice:  Undefined variable: paid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2038
+[11-Mar-2018 12:29:39 Europe/Berlin] PHP Notice:  Undefined variable: due in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2041
+[11-Mar-2018 12:30:20 Europe/Berlin] PHP Notice:  Undefined variable: total in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2034
+[11-Mar-2018 12:30:20 Europe/Berlin] PHP Notice:  Undefined variable: paid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2038
+[11-Mar-2018 12:30:20 Europe/Berlin] PHP Notice:  Undefined variable: due in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2041
+[12-Mar-2018 08:21:23 Europe/Berlin] PHP Notice:  Undefined variable: total in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2029
+[12-Mar-2018 08:21:23 Europe/Berlin] PHP Notice:  Undefined variable: paid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2033
+[12-Mar-2018 08:21:23 Europe/Berlin] PHP Notice:  Undefined variable: due in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2036
+[12-Mar-2018 08:21:23 Europe/Berlin] PHP Notice:  Undefined variable: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2047
+[12-Mar-2018 08:21:23 Europe/Berlin] PHP Notice:  Undefined variable: mobile in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2048
+[12-Mar-2018 08:21:23 Europe/Berlin] PHP Notice:  Undefined variable: date in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2049
+[16-Mar-2018 15:19:30 Europe/Berlin] PHP Notice:  Undefined index: type in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1811
+[16-Mar-2018 15:30:59 Europe/Berlin] PHP Notice:  Undefined index: type in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1811
+[16-Mar-2018 15:31:05 Europe/Berlin] PHP Notice:  Undefined index: type in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1811
+[16-Mar-2018 15:31:51 Europe/Berlin] PHP Notice:  Undefined index: type in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1811
+[16-Mar-2018 15:32:30 Europe/Berlin] PHP Notice:  Undefined index: type in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1811
+[16-Mar-2018 15:32:33 Europe/Berlin] PHP Notice:  Undefined index: type in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1811
+[27-Mar-2018 19:21:35 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:21:35 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:21:35 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:21:35 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:26:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:26:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:26:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:26:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:34:18 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:34:19 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:34:19 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:34:19 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:35:09 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:35:09 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:35:09 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:35:09 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:36:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 10
+[27-Mar-2018 19:36:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 10
+[27-Mar-2018 19:36:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 10
+[27-Mar-2018 19:36:36 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 10
+[27-Mar-2018 19:41:01 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:41:01 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:41:02 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:41:02 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[27-Mar-2018 19:41:13 Europe/Berlin] PHP Fatal error:  Class 'SQLite3' not found in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 9
+[28-Mar-2018 15:41:49 Europe/Berlin] PHP Notice:  Undefined property: SQLite3Result::$num_rows in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2602
+[28-Mar-2018 15:41:49 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1669
+[28-Mar-2018 15:41:49 Europe/Berlin] PHP Notice:  Undefined property: SQLite3Result::$num_rows in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2554
+[28-Mar-2018 15:41:49 Europe/Berlin] PHP Fatal error:  Call to undefined method SQLite3Result::fetch_assoc() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1146
+[28-Mar-2018 15:41:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1680
+[28-Mar-2018 15:59:37 Europe/Berlin] PHP Fatal error:  Call to undefined method SQLite3Result::fetch_assoc() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2611
+[28-Mar-2018 15:59:37 Europe/Berlin] PHP Fatal error:  Call to undefined method SQLite3Result::fetch_assoc() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2563
+[28-Mar-2018 15:59:37 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1677
+[28-Mar-2018 15:59:37 Europe/Berlin] PHP Fatal error:  Call to undefined method SQLite3Result::fetch_assoc() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1154
+[28-Mar-2018 15:59:37 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:03:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1677
+[28-Mar-2018 16:03:47 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:22:50 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 819
+[28-Mar-2018 16:22:50 Europe/Berlin] PHP Notice:  Undefined variable: sql in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 820
+[28-Mar-2018 16:22:50 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 820
+[28-Mar-2018 16:22:50 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 825
+[28-Mar-2018 16:22:50 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:23:45 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[28-Mar-2018 16:23:45 Europe/Berlin] PHP Warning:  SQLite3::query(): UNIQUE constraint failed: customers.mobile in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 828
+[28-Mar-2018 16:32:18 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 979
+[28-Mar-2018 16:32:18 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:32:25 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 979
+[28-Mar-2018 16:32:25 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:32:34 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 979
+[28-Mar-2018 16:32:34 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:32:41 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 979
+[28-Mar-2018 16:32:41 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[28-Mar-2018 16:37:58 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1121
+[28-Mar-2018 16:37:58 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1121
+[28-Mar-2018 17:07:40 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 819
+[28-Mar-2018 17:07:40 Europe/Berlin] PHP Notice:  Undefined variable: sql in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 820
+[28-Mar-2018 17:07:40 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 820
+[28-Mar-2018 17:07:40 Europe/Berlin] PHP Warning:  SQLite3::query(): UNIQUE constraint failed: customers.mobile in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 828
+[28-Mar-2018 17:07:40 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: UNIQUE constraint failed: bill_info.bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 916
+[28-Mar-2018 17:07:40 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 917
+[28-Mar-2018 17:27:59 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 819
+[28-Mar-2018 17:27:59 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[28-Mar-2018 17:28:00 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 820
+[28-Mar-2018 17:28:00 Europe/Berlin] PHP Warning:  SQLite3::query(): UNIQUE constraint failed: customers.mobile in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 828
+[28-Mar-2018 17:28:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: UNIQUE constraint failed: bill_info.bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 900
+[28-Mar-2018 17:28:00 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 901
+[30-Mar-2018 05:46:07 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:49:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:49:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:49:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:49:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 896
+[30-Mar-2018 05:49:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:50:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:50:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:50:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:50:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 816
+[30-Mar-2018 05:50:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 818
+[30-Mar-2018 05:50:00 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 05:53:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:53:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 816
+[30-Mar-2018 05:53:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:53:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 05:53:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 818
+[30-Mar-2018 05:53:02 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 05:54:50 Europe/Berlin] PHP Notice:  Undefined offset: 0 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1160
+[30-Mar-2018 06:11:17 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 06:11:17 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 816
+[30-Mar-2018 06:11:17 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 790
+[30-Mar-2018 06:11:17 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 06:20:58 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:20:58 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 818
+[30-Mar-2018 06:20:58 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:20:58 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 06:23:16 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:23:48 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:23:55 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:23:55 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 818
+[30-Mar-2018 06:23:55 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 820
+[30-Mar-2018 06:23:55 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 06:26:08 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:26:08 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 819
+[30-Mar-2018 06:26:08 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 821
+[30-Mar-2018 06:26:08 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 06:28:52 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:28:52 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 818
+[30-Mar-2018 06:28:52 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 792
+[30-Mar-2018 06:28:52 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 06:42:09 Europe/Berlin] PHP Warning:  SQLite3::exec(): database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 16
+[30-Mar-2018 06:42:09 Europe/Berlin] PHP Warning:  SQLite3::exec(): database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 16
+[30-Mar-2018 06:42:09 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 793
+[30-Mar-2018 06:42:09 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 819
+[30-Mar-2018 06:42:09 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 821
+[30-Mar-2018 06:42:09 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 19
+[30-Mar-2018 06:49:27 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 06:49:27 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 904
+[30-Mar-2018 06:55:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 904
+[30-Mar-2018 06:55:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 06:57:02 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 06:57:02 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 904
+[30-Mar-2018 07:12:51 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 07:12:51 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 905
+[30-Mar-2018 07:12:51 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 934
+[30-Mar-2018 07:13:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 07:13:00 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 904
+[30-Mar-2018 07:27:36 Europe/Berlin] PHP Warning:  SQLite3::exec(): database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 16
+[30-Mar-2018 07:27:36 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 799
+[30-Mar-2018 07:27:36 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 905
+[30-Mar-2018 07:28:27 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 907
+[30-Mar-2018 07:28:53 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 906
+[30-Mar-2018 07:28:53 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 15:52:33 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 948
+[30-Mar-2018 15:52:33 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[30-Mar-2018 15:52:37 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 15:52:37 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 905
+[30-Mar-2018 15:52:44 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 15:52:44 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 905
+[30-Mar-2018 15:54:14 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 15:54:15 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 897
+[30-Mar-2018 15:54:15 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 906
+[30-Mar-2018 15:54:15 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 935
+[30-Mar-2018 18:52:26 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 824
+[30-Mar-2018 18:52:26 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[30-Mar-2018 18:52:26 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 897
+[30-Mar-2018 18:52:26 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 906
+[30-Mar-2018 18:52:26 Europe/Berlin] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 935
+[31-Mar-2018 04:57:27 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1702
+[31-Mar-2018 04:57:27 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1159
+[31-Mar-2018 04:57:27 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2598
+[31-Mar-2018 04:57:27 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[31-Mar-2018 04:57:27 Europe/Berlin] PHP Fatal error:  Call to a member function fetchArray() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1166
+[31-Mar-2018 04:57:27 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 18
+[31-Mar-2018 04:59:18 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 798
+[31-Mar-2018 04:59:18 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 905
+[31-Mar-2018 08:32:44 Asia/Calcutta] PHP Notice:  Undefined property: SQLite3Result::$num_rows in F:\INSTALLED\XAMPP\htdocs\SA\checkout.php on line 26
+[31-Mar-2018 08:35:00 Asia/Calcutta] PHP Notice:  Undefined property: SQLite3Result::$num_rows in F:\INSTALLED\XAMPP\htdocs\SA\checkout.php on line 26
+[31-Mar-2018 08:35:41 Asia/Calcutta] PHP Fatal error:  Call to undefined method SQLite3Result::fetch_assoc() in F:\INSTALLED\XAMPP\htdocs\SA\checkout.php on line 27
+[31-Mar-2018 05:06:41 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 784
+[31-Mar-2018 05:06:41 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 891
+[31-Mar-2018 05:09:30 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 784
+[31-Mar-2018 05:09:30 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 891
+[31-Mar-2018 05:09:34 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 810
+[31-Mar-2018 05:09:34 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 891
+[31-Mar-2018 05:09:34 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 784
+[31-Mar-2018 05:12:25 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: UNIQUE constraint failed: customers.mobile in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 898
+[31-Mar-2018 05:12:25 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:12:25 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:14:20 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:14:20 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 890
+[31-Mar-2018 05:15:03 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 890
+[31-Mar-2018 05:15:03 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:18:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 5, database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 809
+[31-Mar-2018 05:18:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 890
+[31-Mar-2018 05:18:47 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:22:35 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:22:35 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 890
+[31-Mar-2018 08:55:04 Asia/Calcutta] PHP Warning:  SQLite3::query(): The SQLite3 object has not been correctly initialised in F:\INSTALLED\XAMPP\htdocs\SA\checkout.php on line 25
+[31-Mar-2018 08:55:04 Asia/Calcutta] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 21
+[31-Mar-2018 05:36:56 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:36:56 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 890
+[31-Mar-2018 05:43:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:43:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 890
+[31-Mar-2018 05:44:10 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:44:10 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 898
+[31-Mar-2018 05:46:17 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:46:17 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 898
+[31-Mar-2018 05:48:23 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:48:23 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 899
+[31-Mar-2018 05:53:14 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:53:14 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: UNIQUE constraint failed: customers.mobile in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 899
+[31-Mar-2018 05:54:18 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:54:18 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 907
+[31-Mar-2018 05:55:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:55:01 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 907
+[31-Mar-2018 05:57:20 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 05:57:20 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 907
+[31-Mar-2018 06:28:04 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 783
+[31-Mar-2018 06:28:04 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: database is locked in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 891
+[31-Mar-2018 06:40:16 Europe/Berlin] PHP Notice:  Undefined variable: transactions_sql in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 907
+[31-Mar-2018 06:48:56 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1988
+[31-Mar-2018 06:48:56 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 21
+[31-Mar-2018 06:50:02 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1119
+[31-Mar-2018 06:50:02 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1119
+[31-Mar-2018 07:04:24 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1140
+[31-Mar-2018 08:00:39 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such function: IF in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1999
+[31-Mar-2018 08:00:39 Europe/Berlin] PHP Fatal error:  Call to a member function reset() on boolean in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 21
+[31-Mar-2018 08:39:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1171
+[31-Mar-2018 08:47:40 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:47:40 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:47:40 Europe/Berlin] 
+[31-Mar-2018 08:47:40 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:47:40 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:47:40 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:47:40 Europe/Berlin] 
+[31-Mar-2018 08:47:40 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:49:21 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:49:21 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:49:21 Europe/Berlin] 
+[31-Mar-2018 08:49:21 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:49:21 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to execute statement: NOT NULL constraint failed: sales.discount in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:49:21 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:49:21 Europe/Berlin] 
+[31-Mar-2018 08:49:21 Europe/Berlin] PHP Notice:  Undefined property: database::$error in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2477
+[31-Mar-2018 08:55:33 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, 9 values for 8 columns in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2585
+[31-Mar-2018 13:47:43 Europe/Berlin] PHP Notice:  Undefined variable: content in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2693
+[31-Mar-2018 13:48:04 Europe/Berlin] PHP Notice:  Undefined variable: content in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2693
+[01-Apr-2018 16:10:09 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::reset() in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 21
+[01-Apr-2018 16:10:09 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::reset() in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 21
+[01-Apr-2018 16:10:09 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::fetchArray() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1164
+[01-Apr-2018 16:10:09 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::reset() in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 21
+[01-Apr-2018 16:11:13 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::fetchArray() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2670
+[01-Apr-2018 16:11:13 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::fetchArray() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 1164
+[01-Apr-2018 16:11:13 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli_result::fetchArray() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2621
+[01-Apr-2018 16:11:13 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 16:12:58 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 16:12:59 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 16:12:59 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 16:12:59 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 16:13:06 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 16:13:06 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2713
+[01-Apr-2018 19:43:47 Asia/Calcutta] PHP Fatal error:  Call to undefined method mysqli_result::fetchArray() in F:\INSTALLED\XAMPP\htdocs\SA\checkout.php on line 27
+[01-Apr-2018 19:43:47 Asia/Calcutta] PHP Fatal error:  Call to undefined method mysqli_result::fetchArray() in F:\INSTALLED\XAMPP\htdocs\SA\checkout.php on line 27
+[01-Apr-2018 18:10:19 Europe/Berlin] PHP Notice:  Undefined index: content in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2735
+[01-Apr-2018 18:13:18 Europe/Berlin] PHP Notice:  Undefined index: content in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2735
+[01-Apr-2018 18:15:28 Europe/Berlin] PHP Notice:  Undefined variable: sql_bbal in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 954
+[01-Apr-2018 18:15:28 Europe/Berlin] PHP Warning:  mysqli::query(): Empty query in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 954
+[01-Apr-2018 18:15:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in F:\INSTALLED\XAMPP\htdocs\SA\database_connection.php on line 25
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: mop in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 958
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: paid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 962
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: total in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 962
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: cname in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 963
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: customer_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 964
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: total in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 965
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: paid in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 966
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: bill_id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 968
+[01-Apr-2018 18:16:51 Europe/Berlin] PHP Notice:  Undefined variable: curr_date in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 969
+[02-Apr-2018 07:46:47 Europe/Berlin] PHP Notice:  Undefined variable: sms_status in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2758
+[02-Apr-2018 07:47:32 Europe/Berlin] PHP Notice:  Undefined variable: sms_status in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 2758
+[02-Apr-2018 10:56:16 Europe/Berlin] PHP Notice:  Undefined index: id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 836
+[02-Apr-2018 10:56:16 Europe/Berlin] PHP Notice:  Undefined index: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 837
+[02-Apr-2018 10:56:16 Europe/Berlin] PHP Notice:  Undefined index: id in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 836
+[02-Apr-2018 10:56:16 Europe/Berlin] PHP Notice:  Undefined index: name in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 837
+[02-Apr-2018 10:57:18 Europe/Berlin] PHP Fatal error:  Call to undefined method mysqli::lastErrorMsg() in F:\INSTALLED\XAMPP\htdocs\SA\ajax-req-handler.php on line 963

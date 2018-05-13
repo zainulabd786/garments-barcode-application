@@ -1,0 +1,535 @@
+.body{
+    background-image: url(images/back.jpg);
+	height: 1000px;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:right top;
+	background-attachment:fixed;
+}
+body{
+    background-color: #DCDCDC;
+}
+.logout{
+    cursor: pointer;
+}
+.logout:hover{
+	color: red;
+}
+.search-inp{
+    margin: 0!important;
+}
+#login-uname, #login-pass, .product-searchbar, .product-details select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: none;/* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+   /* margin: 5% auto 15% auto;  5% from the top, 15% from the bottom and centered */
+    margin: -2% auto 15% auto;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
+.topbar{
+    height: 35px;
+    background-color: #B0B0B0;
+    border-bottom: 2px solid;
+}
+.live-search-box{
+	width: 100%;
+	padding: 10px;
+	margin-left: 0px;
+}
+.live-search-box:hover{
+	background-color: grey;
+	color: #ffffff;
+	cursor: pointer;
+}
+.live-search-response{
+	box-shadow: 10px 5px 30px -5px;
+	position: absolute;
+	background: ivory;
+    max-width: 66.5%;
+    min-width: 66.5%;
+	top: 35px;
+	left: 0;
+    width: 66.5%;
+    z-index: 1;
+}
+
+.suggestion-single-row{
+	width: 100%;
+	padding: 10px;
+	margin-left: 0px;
+}
+.suggestion-single-row:hover{
+	background-color: grey;
+	color: #ffffff;
+	cursor: pointer;
+}
+.suggestions-container{
+	box-shadow: 10px 5px 30px -5px;
+    position: absolute;
+    background: ivory;
+    max-width: 93%;
+    min-width: 60%;
+    top: 60px;
+    left: 1px;
+    width: 93%;
+    z-index: 1;
+}
+
+.name-row:hover, .cust-num-suggestions :hover{
+	background-color: grey;
+	color: #ffffff;
+	cursor: pointer;
+}
+.name-row, .single-mob-row{
+	width: 100%;
+	padding: 10px;
+	margin-left: 0px;
+}
+.name-resp, .cust-num-suggestions{
+	box-shadow: 10px 5px 30px -5px;
+	position: absolute;
+	background-color: ivory;
+    max-width: 87.5%;
+    min-width: 66.5%;
+    width: 87.5%;
+    z-index: 1;
+	max-height: 150px;
+	overflow: scroll;
+}
+.cust-num-suggestions{
+	width: 220px;
+	min-width: 220px;
+	max-width: 220px;
+    font-size: 12px;
+}
+.brand-row:hover{
+	background-color: grey;
+	color: #ffffff;
+	cursor: pointer;
+}
+.brand-row{
+	width: 100%;
+	padding: 10px;
+	margin-left: 0px;
+}
+.brand-resp{
+	box-shadow: 10px 5px 30px -5px;
+	position: absolute;
+	background: ivory;
+    max-width: 87.5%;
+    min-width: 66.5%;
+    width: 87.5%;
+    z-index: 1;
+	max-height: 150px;
+	overflow: scroll;
+}
+.product-details tr td{
+    padding: 10px;
+}
+.product-details{
+    text-align: center;
+}
+input:-moz-read-only { /* For Firefox */
+    background-color: lightgrey;
+    cursor: not-allowed;
+}
+input:read-only { 
+    background-color: lightgrey;
+    cursor: not-allowed;
+}
+nav .navbar-form{
+    width: 40%;
+}
+nav .form-group, nav .input-group{
+    width: 100%!important;
+}
+.single-product{
+    float: left;
+    padding: 20px;
+    box-shadow: 10px 10px 15px -10px;
+    max-width: 20%;
+    width: 20%;
+}
+.single-product-details{
+    padding: 10px 5px 0px 0px;
+    color: green;
+}
+.single-product-details table{
+	font-size: 10px;
+	color: red;
+}
+.prices-col{
+	text-align: right;
+}
+.total-prices{
+	font-size: 20px;
+	color: green;
+	text-align: right;
+}
+.checkout-product-list{
+	margin-bottom: 15px;
+}
+.tot-btn{
+	margin-top: 10px;
+
+}	
+.aoi .panel-body, .invs .panel-body{
+	padding: 0;
+}
+.aoi table, .invs table{
+	font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.aoi table tr, .invs table tr {
+	border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.aoi td, .invs td{
+	padding: 5px;
+}
+table tr:nth-child(even) {
+    background-color: #E8EEF1;
+}
+.bill{
+	text-align: center;
+}
+.bill table{
+	width: 100%;
+} 
+.bill table tr{
+	border-bottom: 1px solid;
+}
+.bill table tr td{
+	border: 1px solid;
+}
+.bought-prod-tab{
+	padding: 5px;
+}
+.product-list, .product-list table{
+	width: 100%;
+	text-align: center;
+}
+.product-list, .product-list tr, .product-list td{
+	border: 1px solid;
+}
+.tab-head{
+	background-color: #000000;
+	color: #ffffff;
+}
+.single-prod-del{
+	position: relative;
+    top: -10px;
+    right: -80px;
+    /* color: #F44336; */
+    /* border: 2px solid; */
+    padding: 5px;
+    border-radius: 50%;
+    /* width: 100%; */
+    height: 30px;
+    width: 30px;
+}
+.prod-details{
+	width: 100%;
+	padding: 10px;
+	margin-left: 0px;
+}
+.prod-details:hover{
+	background-color: grey;
+	color: #ffffff;
+	cursor: pointer;
+}
+.pid-resp{
+	box-shadow: 10px 5px 30px -5px;
+	position: absolute;
+	background: ivory;
+    max-width: 88%;
+    z-index: 1;
+	width: 88%;
+}
+.single-product-row:hover{
+	color: #ffffff; 
+	background-color: #000000;
+	cursor: pointer;
+}
+.customer-det-tab td{
+	padding: 10px;
+}
+.customer-det-tab td, .customer-det-tab tr{
+	border: 1px solid;
+}
+.barcode-img{
+	max-width: 75%;
+	width: 75%;
+}
+.prod-filters{
+	float: right;
+    position: relative;
+    top: -15px;
+    right: -10px;
+}
+.filter-width{
+	width: 16%!important;
+}
+.fixed-height{
+	height: 368px;
+	overflow:hidden;
+}
+#show-more-inv, #show-less-inv, #show-more-aoi, #show-less-aoi{
+	text-align:center;
+	color: blue;
+	cursor: pointer;
+	background-color: #F2DEDE;
+}
+#show-less-aoi, #show-less-inv{
+	display: none;
+}
+.fixed-height-inv{
+	display: block;
+}
+.backup{
+	margin: 8px;
+    height: 35px;
+    padding: 7px!important;
+    color: #ffffff!important;
+}
+.returned-products-container table{
+		width: 100%;
+}
+.cash-card-payment{
+	width:20%;
+	position:relative;
+	top:-3px;
+}
+.bill-no-to-mod{
+	margin: 300px;
+}
+.bill-no-to-mod input{
+	padding: 25px;
+}
+.bill-no-to-mod button{
+    height: 41px;
+    margin-bottom: -10px;
+}
+.mod-bill-inp{
+	width: 100%;
+    text-align: center;
+	border: none;
+}
+.mod-bill table tr td{
+	cursor: not-allowed;
+}
+.aoi-single-row, .bill-single-row{
+	cursor: pointer;
+}
+.aoi-single-row:hover, .bill-single-row:hover{
+	background-color: #808080;
+	color: #ffffff!important;
+}
+.disc-on-all{
+    width: 215px;
+    float: right;
+}
+.sales-print-header{
+    display: none;
+}
+.header-search-bar{
+    width: 25%;
+    position: absolute;
+    top: 55px;
+    right: 50px;
+}
+.search-icon, .refresh, .settings{
+    cursor: pointer;
+}
+@media print{
+	@page{
+		margin: 5px;
+		text-align:center;
+		margin-top: 0;
+	}
+	.bill{
+		width: 100%;
+	}
+    .sales-tab{
+        width: 99%;
+        margin: 10px;
+        border: 2px solid;
+        text-align: center;
+    }
+    .sales-tab td{
+        border: 2px solid;
+    }
+    .sales-print-header{
+        display: block;
+    }
+    .barcode-label{
+        size: 3in 1.50in;
+    }
+}
+/* Style the tab */
+.settings-page .tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 300px;
+}
+
+/* Style the buttons inside the tab */
+.settings-page .tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.settings-page .tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.settings-page .tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.settings-page .tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+    background-color: #fff;
+}
+.sms-count{
+    float: right;
+    font-size: 12px;
+}
+.num-of-sms-credit{
+    float: right;
+}
+#sms .well{
+    position: relative;
+    top: -15px;
+    margin: 0;
+}
+
