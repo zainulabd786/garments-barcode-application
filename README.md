@@ -22,8 +22,6 @@ If I were rebuilding this today with PHP 8.3, I would modernize each outdated ar
 
 ## Garments Barcode Application
 
-![Dashboard screenshot showing inventory, sales, and transactions](Capture.PNG)
-
 ### Overview
 This repository contains a lightweight point-of-sale workflow tailored for garment retailers who print barcode stickers, maintain stock, and reconcile sales daily. The UI is powered by Bootstrap 3, jQuery, and Chart.js, while persistence is handled by a file-backed SQLite database (`data/safg.sqlite3`). PHP scripts inside the project root expose AJAX endpoints (`ajax-req-handler.php`) that serve inventory counts, sales summaries, and transaction logs to the dashboard in `index.php`.
 
@@ -129,3 +127,4 @@ Alternatively, drop the folder inside Apache/Nginx `DocumentRoot` and ensure `A
 - Add role-based authorization so inventory edits and billing require elevated permissions.
 - Introduce export pipelines (CSV/PDF) for sales history.
 - Containerize the stack with Docker for predictable deployment.
+
